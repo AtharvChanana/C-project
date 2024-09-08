@@ -1,4 +1,5 @@
 # C-project
+This is my project which i made using C language.
 # Number Guessing Game
 
 This is a simple C program that generates a random number between 1 and 200 and prompts the user to guess the number. After each guess, the program provides feedback on whether the guess is higher or lower than the randomly generated number. The game continues until the user guesses the correct number, and the program will display the number of attempts taken.
